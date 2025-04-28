@@ -1,16 +1,16 @@
-<h2 align="left">Hi 👋!  My name is Thomas Castillo Cortes and I'm from Colombia</h2>
+<h2 align="center">Hi 👋!  My name is Thomas Castillo Cortes and I'm from Colombia</h2>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasCortes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ThomasCortes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasCortes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  />
+<p align="center">- ⚗️ I´m working as junior programmer<br>- 📚 I´m currently learning about programming as html and python</p>
 
 ###
 
@@ -43,24 +43,14 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ThomasCortes/ThomasCortes/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasCortes/ThomasCortes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThomasCortes/ThomasCortes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ThomasCortes/ThomasCortes/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<p align="center">Hello World!!</p>
-
-###
-
 <div align="center">
-  <img height="200" src="https://www.gifcen.com/wp-content/uploads/2022/01/meme-gif-3.gif"  />
+  <img height="150" src="https://i.gifer.com/origin/f5/f5baef4b6b6677020ab8d091ef78a3bc_w200.gif"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ThomasCortes/ThomasCortes/output/snake.svg" alt="Snake animation" />
 
 ###
